@@ -53,3 +53,9 @@ FirstSynth can be used in any DAW that supports VST plugins. Once the plugin is 
 * **Octave**: This setting controls the octave of the oscillator.
 * **Tuning**: This setting controls the overall tuning of the plugin.
 * **Output Level**: This setting controls the output level of the plugin.
+
+## Screenshots
+
+|         Plugin         | Logic Pro with Plugin  |
+| :--------------------: | :--------------------: |
+| ![](screenshots/2.png) | ![](screenshots/1.png) |
